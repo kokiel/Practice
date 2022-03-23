@@ -1,0 +1,6 @@
+Today I had a have to practice how I can use git
+
+git is how you can keep tracking of the changes that you have on your files
+
+
+after that I have to review the methods class
